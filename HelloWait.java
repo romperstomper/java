@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class HelloWait {
 
     public static void main(String[] args) 
         throws InterruptedException {
